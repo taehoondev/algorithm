@@ -23,12 +23,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Application.Solution_2440">
+  <component name="RunManager" selected="Application.Solution_2441">
     <configuration name="Solution_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_2439" />
       <module name="algorithm" />
@@ -55,6 +55,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Solution_2441" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.main" />
       <module name="algorithm" />
@@ -70,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_2441" />
         <item itemvalue="Application.Solution_2440" />
         <item itemvalue="Application.Solution_2439" />
         <item itemvalue="Application.main" />
@@ -90,30 +104,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" width="811" height="669" key="#Project_Structure" timestamp="1608632562132">
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure" timestamp="1608686734025">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1608632562132" />
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1608686734025" />
     <state x="184" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608632850707">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1608632850707" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1608685751924">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1608688305119">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608685751924" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1608685751923">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608688305119" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1608688305117">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608685751923" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1608685751922">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608688305117" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1608688305115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608685751922" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1608685751924">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608688305115" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1608688305118">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608685751924" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608688305118" />
     <state x="208" y="43" key="SettingsEditor" timestamp="1608632793964">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
