@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfc30fb-ea06-4553-a5fe-4b28d5a2e590" name="Default Changelist" comment="" />
+    <list default="true" id="ddfc30fb-ea06-4553-a5fe-4b28d5a2e590" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/java/Solution_2522.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m0Zc2b48tdbsYlSa6ah4j9Shx3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,22 +32,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Solution_2443">
-    <configuration name="Solution_2442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.Solution_2442" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_2522">
     <configuration name="Solution_2443" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_2443" />
       <module name="algorithm" />
@@ -81,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_2522" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Solution_2522" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_2523" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_2523" />
       <module name="algorithm" />
@@ -96,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_2522" />
         <item itemvalue="Application.Solution_2443" />
         <item itemvalue="Application.Solution_2445" />
         <item itemvalue="Application.Solution_2444" />
         <item itemvalue="Application.Solution_2523" />
-        <item itemvalue="Application.Solution_2442" />
       </list>
     </recent_temporary>
   </component>
@@ -126,29 +132,38 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1608632850707" />
-    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1608874181508">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1608875754131">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608874181508" />
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608875754131" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1608875656204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1608875656204" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1608876191574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608876191574" />
     <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608871953283" />
-    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1608874181507">
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1608876191573">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608874181507" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608876191573" />
     <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608871953281" />
-    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1608874181506">
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1608876191572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608874181506" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608876191572" />
     <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608871953279" />
-    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1608874181507">
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1608876191574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608874181507" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608876191574" />
     <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608871953282" />
-    <state x="208" y="43" key="SettingsEditor" timestamp="1608632793964">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1608875586912">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="208" y="23" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608875586912" />
     <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1608632793964" />
     <state x="748" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608873635650">
       <screen x="0" y="0" width="1440" height="900" />
