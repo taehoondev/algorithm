@@ -18,7 +18,7 @@ public class Solution_2920 {
         }
         sc.close();
 
-        for (int i = 0; i < 8; i++) {햐
+        for (int i = 0; i < 8; i++) {
             if (arr[i] == bbb[i] & arr[7] == bbb[7]) {
                 String a = "ascending";
                 System.out.println(a);
