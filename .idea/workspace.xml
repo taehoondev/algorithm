@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddfc30fb-ea06-4553-a5fe-4b28d5a2e590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/Solution_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/practice_2439.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/java/Solution_2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/java/Solution_2739.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Solution_2739">
+  <component name="RunManager" selected="Application.practice_2439">
     <configuration name="Solution_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_2438" />
       <module name="algorithm" />
@@ -74,19 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.Solution_3052" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hashset_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.hashset_practice" />
       <module name="algorithm" />
@@ -100,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practice_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.practice_2439" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice_2439" />
         <item itemvalue="Application.Solution_2739" />
         <item itemvalue="Application.Solution_2438" />
         <item itemvalue="Application.Solution_2920" />
         <item itemvalue="Application.hashset_practice" />
-        <item itemvalue="Application.Solution_3052" />
       </list>
     </recent_temporary>
   </component>
@@ -156,26 +157,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1608875656204" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1609222202267">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1609222934073">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609023807671" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609222202267" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1609222202265">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609222934073" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1609222934072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609023807670" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609222202265" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1609222202264">
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609222934072" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1609222934072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609023807670" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609222202264" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1609222202267">
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609222934072" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1609222934072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609023807671" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609222202267" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609222934072" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1609136378555">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
