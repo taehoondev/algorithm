@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddfc30fb-ea06-4553-a5fe-4b28d5a2e590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/Solution_10818.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +33,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Solution_10818">
-    <configuration name="Solution_10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.Solution_10817" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_11718">
     <configuration name="Solution_10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_10818" />
       <module name="algorithm" />
@@ -87,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Solution_11718" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Solution_2884" />
       <module name="algorithm" />
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_11718" />
         <item itemvalue="Application.Solution_10818" />
         <item itemvalue="Application.Solution_2884" />
         <item itemvalue="Application.Solution_10952" />
         <item itemvalue="Application.Solution_10950" />
-        <item itemvalue="Application.Solution_10817" />
       </list>
     </recent_temporary>
   </component>
@@ -156,26 +155,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1608875656204" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1609365201041">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1609366326084">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609023807671" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609365201041" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1609365201040">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609366326084" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1609366326082">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609023807670" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609365201040" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1609365201040">
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609366326082" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1609366326082">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609023807670" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609365201040" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1609365201041">
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609366326082" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1609366326083">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609023807671" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609365201041" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609366326083" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1609293572780">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
