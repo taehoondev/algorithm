@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddfc30fb-ea06-4553-a5fe-4b28d5a2e590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/Solution_10809.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/java/Solution_8958.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/java/Solution_8958.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/Solution_8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Solution_8958.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +36,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Solution_10809">
+  <component name="RunManager" selected="Application.Solution_8958">
     <configuration name="Practice_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Practice_1152" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice_11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.Practice_11720" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Solution_8958" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_8958" />
         <item itemvalue="Application.Solution_10809" />
         <item itemvalue="Application.Solution_15552" />
         <item itemvalue="Application.Practice_1152" />
         <item itemvalue="Application.Solution_2577" />
-        <item itemvalue="Application.Practice_11720" />
       </list>
     </recent_temporary>
   </component>
@@ -157,25 +158,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1608875656204" />
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1612685189066">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1612706497543">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612685115413" />
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612706497543" />
     <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1612685189066" />
-    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1612685189065">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1612706497542">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1612685115411" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1612706497542" />
     <state width="1398" height="228" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1612685189065" />
-    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1612685189064">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1612706497541">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1612685115411" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1612706497541" />
     <state width="1398" height="228" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1612685189064" />
-    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1612685189065">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1612706497542">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1612685115412" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1612706497542" />
     <state width="1398" height="228" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1612685189065" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1611634489670">
       <screen x="0" y="23" width="1440" height="877" />
