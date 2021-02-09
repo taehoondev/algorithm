@@ -11,13 +11,20 @@ import java.util.StringTokenizer;
 */
 public class Practice_2908 {
     public static void main(String[] args) {
-        List<String> arr = new ArrayList<String>();
-        Scanner sc = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
-        String a = sc.next();
-        arr.add(a);
-        String b = sc.next();
-        arr.add(b);
+        int a = in.nextInt();
+        int b = in.nextInt();
+
+        in.close();
+
+        a=Integer.parseInt(new StringBuilder().append(a).reverse().toString());
+        b=Integer.parseInt(new StringBuilder().append(b).reverse().toString());
+
+        if (a>b) {
+            System.out.println(a);
+        }
+        else System.out.println(b);
 
     }
 }
