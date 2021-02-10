@@ -2,8 +2,8 @@ package com.java;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Scanner;
+        import java.util.HashSet;
+        import java.util.Scanner;
 
 /*
 1. 10개의 수 입력받는다.
