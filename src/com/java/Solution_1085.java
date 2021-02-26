@@ -1,19 +1,29 @@
 package com.java;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Solution_1085 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        /*
+        1. 4자리수 입력받는다.
+        2. 스트링스키나이져로 각각 인트로 바꿔 입력받는다.
+        3. 각각 다 곱하고 나눈다.
+        4. 소수점 첫째까지 구한다.
+         */
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        String getNumbers = bufferedReader.readLine();
+        StringTokenizer stringTokenizer = new StringTokenizer(getNumbers);
 
-        int x = sc.nextInt();
-        int y = sc.nextInt();
-        int w = sc.nextInt();
-        int h = sc.nextInt();
+        double a = (double)Integer.parseInt(stringTokenizer.nextToken());
+        double b = (double)Integer.parseInt(stringTokenizer.nextToken());
+        double c = (double)Integer.parseInt(stringTokenizer.nextToken());
+        double d = (double)Integer.parseInt(stringTokenizer.nextToken());
 
-        int[] arr = {x, y, w - x, h - y};
-        Arrays.sort(arr);
-        System.out.println(arr[0]);
+        double e = a*b*c*d/1024/1024/8;
+        System.out.printf("%.1f",e);
+        System.out.print(" "+"MB");
     }
 }
