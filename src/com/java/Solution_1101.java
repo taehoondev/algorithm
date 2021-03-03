@@ -2,6 +2,6 @@ package com.java;
 
 public class Solution_1101 {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.print("Hello,\nWorld!");
     }
 }
